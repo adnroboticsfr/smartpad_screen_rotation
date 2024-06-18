@@ -1,6 +1,6 @@
 # Smartpad Screen Rotation
 
-This repository contains the rotate_screen.sh script designed to rotate the screen of the Smartpad Yumi when it is connected to an external display.
+This repository contains the *rotate_screen.sh* script designed to rotate the screen of the Smartpad Yumi when it is connected to an external display.
 
 ## Prerequisites
 

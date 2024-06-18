@@ -1,4 +1,4 @@
-# Smartpad Screen Rotation
+# Smartpad screen rotation
 
 ![smartpad rotation screen](img/smartpad_rotation_screen.png)
 

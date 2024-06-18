@@ -1,5 +1,7 @@
 # Smartpad Screen Rotation
 
+![smartpad rotation screen](img/smartpad_rotation_screen.png)
+
 This repository contains the **rotate_screen.sh** script designed to rotate the screen of the Smartpad Yumi when it is connected to an external display via HDMI.
 
 ## Prerequisites

@@ -29,7 +29,7 @@ This repository contains the **rotate_screen.sh** script designed to rotate the 
 
    Replace `smartpad_ip_address` with the actual IP address of your Smartpad Yumi.
 
-   <img src="img/KlipperSmartPad/Rotation_screen/smartpad_rotation_screen_1.png" alt="Smartpad rotation screen 1" width="600">
+   <img src="img/smartpad_rotation_screen_1.png" alt="Smartpad rotation screen 1" width="600">
 
 ## Installation
 

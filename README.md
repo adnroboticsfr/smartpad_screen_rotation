@@ -42,7 +42,7 @@ chmod +x rotate_screen.sh
 Run the script to rotate the Smartpad Yumi screen:
 
 ```bash
-./rotate_screen.sh
+sudo ./rotate_screen.sh
 ```
 
 ## Usage

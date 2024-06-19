@@ -67,9 +67,7 @@ Run the script to rotate the Smartpad Yumi screen:
 sudo ./rotate_screen.sh
 ```
 
-## Usage
-
-The `rotate_screen.sh` script can be customized to rotate the screen.
+You can easily reset the rotation to default by running the **"sudo ./rotation_screen.sh"** command. 
 
 
 

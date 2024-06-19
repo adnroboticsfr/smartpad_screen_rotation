@@ -6,7 +6,7 @@ XORG_CONF_DIR="/etc/X11/xorg.conf.d"
 DEFAULTS_CONF="$XORG_CONF_DIR/01-armbian-defaults.conf"
 SMARTPAD_CONF="$XORG_CONF_DIR/02-smartpad-rotate-screen.conf"
 
-# Chercher et gérer la ligne extraargs=fbcon=rotate:2
+# Chercher et gï¿½rer la ligne extraargs=fbcon=rotate:2
 if grep -q "extraargs=fbcon=rotate:2" "$ARMBIAN_TXT"; then
     sed -i '/extraargs=fbcon=rotate:2/d' "$ARMBIAN_TXT"
 
@@ -43,7 +43,7 @@ EndSection
 EOL
 fi
 
-echo "Screen rotation : ok"
+echo "Rotation screen : ok"
 
 # Reboot
 reboot

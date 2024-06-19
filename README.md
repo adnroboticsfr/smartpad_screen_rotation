@@ -29,7 +29,7 @@ This repository contains the **rotate_screen.sh** script designed to rotate the 
 
    Replace `smartpad_ip_address` with the actual IP address of your Smartpad Yumi.
 
-   <img src="img/KlipperSmartPad/Rotation_screen/smartpad_rotation_screen_1.png" alt="Smartpad rotation screen 1" width="600">
+   <img src="img/smartpad_rotation_screen_1.png" alt="Smartpad rotation screen 1" width="600">
 
 ## Installation
 
@@ -69,5 +69,10 @@ sudo ./rotate_screen.sh
 
 You can easily reset the rotation to default by running the **"sudo ./rotation_screen.sh"** command. 
 
+## Troubleshooting
 
+- Ensure that the Smartpad Yumi is properly connected to the external display.
+- Verify that the external display is set to the correct HDMI input.
+- Check for any error messages in the terminal and resolve any permission issues or missing dependencies.
+- If the smartpad does not restart after running the script. Unplug it and plug it back in.
 
